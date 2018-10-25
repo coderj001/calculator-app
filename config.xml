@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.calculator" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>samp</name>
+    <description>
+        second app with  help of phonegap.
+    </description>
+    <author email="text@gmail.com" href="com.phonegap.calculator">
+        Myself
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <icon src="icon.png" />
+</widget>
